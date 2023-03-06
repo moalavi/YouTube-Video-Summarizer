@@ -1,4 +1,4 @@
-YouTube Video Summary
+#YouTube Video Summary
 This is a Python program that provides a written summary of a YouTube video. The program extracts relevant noun phrases from the video subtitles and considers additional factors such as video duration and keywords in the video title and tags.
 
 Requirements
